@@ -1,8 +1,21 @@
+poppysite
+=======
+
+Measurement of World Heritage sites attractiveness from social-sensing and processing (`Python`) of  geotagged  images in community-contributed photos collections.
+---
+
+**About**
+
+**Description**
+
+
+**<a name="References"></a>References**
+
 * Y. Gao, J. Tang, R. Hong, Q. Dai, T.-S. Chua, R. Jain (): [W2Go: A travel guidance system by automatic landmark ranking](http://lms.comp.nus.edu.sg/sites/default/files/mm10-gaoyue.pdf).
-* R. Abbasi, S. Chernov, W. Nejd, R. Paiu, and S. Staab (2009): [Exploiting Flickr tags and groups for finding landmark photos](), _ECIR_.
+* R. Abbasi, S. Chernov, W. Nejd, R. Paiu, and S. Staab (2009): [Exploiting Flickr tags and groups for finding landmark photos](), Proc. _ECIR_.
 * D.J. Crandall, L. Backstrom, D. Huttenlocher and J. Kleinberg (2009): [Mapping the world’s photos](), Proc. _ICWWW_. 
-* H. Kretzschmar, C. Stachniss, C. Plagemann, and W. Burgard (2008): [Estimating landmark locations from geo-referenced photographs](), _ICIRS_.
-* T. Rattenbury, N. Good, and M. Naaman (2007): [Towards automatic extraction of event and place semantics from Flickr tags](), _SIGIR_.
+* H. Kretzschmar, C. Stachniss, C. Plagemann, and W. Burgard (2008): [Estimating landmark locations from geo-referenced photographs](), Proc. _ICIRS_.
+* T. Rattenbury, N. Good, and M. Naaman (2007): [Towards automatic extraction of event and place semantics from Flickr tags](), Proc. _SIGIR_.
 * Y. Zheng, M. Zhao, Y. Song, H. Adam, U. Buddemeier, A. Bissacco, F. Brucher, T. Chua, and H. Neven (2009): [Tour the world: Building a web-scale landmark recogntion engine](http://ieeexplore.ieee.org/document/5206749/), Proc. _IEEE CVPR_, doi:[10.1109/CVPR.2009.5206749](https://doi.org/10.1109/CVPR.2009.5206749).
 * S. Newsam (2010): [Crowdsourcing what is where: Community-contributed photos as volunteered geographic information](http://faculty2.ucmerced.edu/snewsam/papers/Newsam_IEEEMult10_Crowdsourcing.pdf), _IEEE Multimedia_.
 * T. Weyand, B. Leibe (2015): [Visual landmark recognition from internet photo collections: A large-scale evaluation](http://www.sciencedirect.com/science/article/pii/S1077314215000363), _Computer Vision and Image Understanding_, 135:1-15, doi:.
@@ -24,9 +37,9 @@
 * Y. Zhu and S. Newsam (): [Land use classification using convolutional neural networks applied to ground-level images](http://faculty.ucmerced.edu/snewsam/papers/Zhu_SIGSPATIAL15_LandUseClassification.pdf). 
 * A. Sitthi, M. Nagai, M. Dailey, and S. Ninsawat (2016): [Exploring land use and land cover of geotagged social-sensing images using naive Bayes classifier](), _Sustainability_, 8:921, doi: [10.3390/su8090921](10.3390/su8090921).
 * D. Leung and S. Newsam (2012): [Exploring geotagged images for land-use classification](), Proc. _ACM MM_.
-* R. Martin-Brualla _et al._ (2015): [Time-lapse Mining from Internet Photos](), Proc. _ACM SIGGRAPH_.
+* R. Martin-Brualla _et al._ (2015): [Time-lapse mining from internet photos](), Proc. _ACM SIGGRAPH_.
 * A. Nandipati (): [Assessment of metadata associated with geotag pictures](https://run.unl.pt/bitstream/10362/8260/1/TGEO0039.pdf).
-* Analyzing Flickr metadata to extract location-based information and semantically organize its photo content](). 
+* [Analyzing Flickr metadata to extract location-based information and semantically organize its photo content](). 
 * E. Spyrou and P. Mylonas (2015): [Analyzing Flickr metadata to extract location-based information and semantically organize its photo content](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.698.136&rep=rep1&type=pdf), _Neurocomputing_, doi: (10.1016/j.neucom.2014.12.104)[http://dx.doi.org/10.1016/j.neucom.2014.12.104).
 * O. Van Laere, S. Schockaert, and B. Dhoedt (): [Georeferencing Flickr resources based on textual meta-data](https://biblio.ugent.be/publication/4196622/file/4210851).
 * O. Van Laere, S. Schockaert, and B. Dhoedt (): [Finding locations of Flickr resources using language models and similarity search](https://users.cs.cf.ac.uk/S.Schockaert/Publications_files/icmr.pdf).
