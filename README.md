@@ -1,10 +1,12 @@
 poppysite
 =======
 
-Measurement of World Heritage sites attractiveness from social-sensing and processing (`Python`) of  geotagged  images in community-contributed photos collections.
+Automated measurement of World Heritage sites attractiveness from social-sensing and processing (`Python`) of  geotagged  images in community-contributed photos collections.
 ---
 
 **About**
+
+[[[https://github.com/gjacopo.png?size=40]]](https://github.com/gjacopo.png)
 
 **Description**
 
