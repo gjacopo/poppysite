@@ -6,7 +6,9 @@ Automated measurement of World Heritage sites attractiveness from social-sensing
 
 **About**
 
-[[[https://github.com/gjacopo.png?size=40]]](https://github.com/gjacopo.png)
+<a href="https://github.com/gjacopo.png">
+    <img src="https://github.com/gjacopo.png?size=40">
+</a>
 
 **Description**
 
