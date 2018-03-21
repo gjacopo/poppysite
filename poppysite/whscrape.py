@@ -6,6 +6,10 @@ Created on Sun Feb 18 02:26:36 2018
 @author: gjacopo
 """
 
+import os
+import multiprocessing
+from multiprocessing import Pool
+
 
 def _crawl(spider_name=None):
     if spider_name:
