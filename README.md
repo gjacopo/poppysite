@@ -1,7 +1,7 @@
 poppysite
 =======
 
-Automated measurement of World Heritage sites attractiveness from social-sensing and processing (`Python`) of  geotagged  images in community-contributed photos collections.
+Automated measurement of World Heritage sites attractiveness from social-sensing and processing of geotagged images in community-contributed photos collections.
 ---
 
 **About**
@@ -14,7 +14,7 @@ Automated measurement of World Heritage sites attractiveness from social-sensing
 
 * Y. Gao, J. Tang, R. Hong, Q. Dai, T.-S. Chua, R. Jain (): [W2Go: A travel guidance system by automatic landmark ranking](http://lms.comp.nus.edu.sg/sites/default/files/mm10-gaoyue.pdf).
 * R. Abbasi, S. Chernov, W. Nejd, R. Paiu, and S. Staab (2009): [Exploiting Flickr tags and groups for finding landmark photos](), Proc. _ECIR_.
-* D.J. Crandall, L. Backstrom, D. Huttenlocher and J. Kleinberg (2009): [Mapping the world’s photos](), Proc. _ICWWW_. 
+* D.J. Crandall, L. Backstrom, D. Huttenlocher and J. Kleinberg (2009): [Mapping the world√ïs photos](), Proc. _ICWWW_. 
 * H. Kretzschmar, C. Stachniss, C. Plagemann, and W. Burgard (2008): [Estimating landmark locations from geo-referenced photographs](), Proc. _ICIRS_.
 * T. Rattenbury, N. Good, and M. Naaman (2007): [Towards automatic extraction of event and place semantics from Flickr tags](), Proc. _SIGIR_.
 * Y. Zheng, M. Zhao, Y. Song, H. Adam, U. Buddemeier, A. Bissacco, F. Brucher, T. Chua, and H. Neven (2009): [Tour the world: Building a web-scale landmark recogntion engine](http://ieeexplore.ieee.org/document/5206749/), Proc. _IEEE CVPR_, doi:[10.1109/CVPR.2009.5206749](https://doi.org/10.1109/CVPR.2009.5206749).
@@ -33,8 +33,8 @@ Automated measurement of World Heritage sites attractiveness from social-sensing
 * G. Andrienko,  N. Andrienko, P. Bak, S. Kisilevich, and  D. Keim (2009): [Analysis of community-contributed space- and time-referenced data by example of Flickr and Panoramio photos)](https://pdfs.semanticscholar.org/074c/578aa02446f364d72014eeb852dce75d0d4c.pdf), Proc. _VAST_, doi: [10.1109/VAST.2009.5333472]().
 * K.D. Gavric, D.R. Culibrk, P.I. Lugonja, M.R. Mirkovic, and V.S. Crnojevic (2011): [Detecting attractive locations and tourists' dynamics using geo-referenced images](), Telecommunication in Modern Satellite Cable and Broadcasting Services.
 * M. Raja (2015): [Exploring human mobility patterns based on geotagged Flickr photos](https://pdfs.semanticscholar.org/21bf/61a3191c08ed927217372d999352760f9c26.pdf).
-* L. Juhász, A. Rousell, and J.J. Arsanjani (2016): [Technical guidelines to extract and analyze VGI from different platforms](), Data, doi:[10.3390/data1030015](10.3390/data1030015).
-* D. Zheng, T. Hu, Q. You, H. Kautz, and J. Luo (): [Inferring home location from user’s photo collections based on visual content and mobility patterns](https://www.cs.rochester.edu/u/kautz/papers/p21-zheng.pdf).
+* L. Juh‚Ä°sz, A. Rousell, and J.J. Arsanjani (2016): [Technical guidelines to extract and analyze VGI from different platforms](), Data, doi:[10.3390/data1030015](10.3390/data1030015).
+* D. Zheng, T. Hu, Q. You, H. Kautz, and J. Luo (): [Inferring home location from user√ïs photo collections based on visual content and mobility patterns](https://www.cs.rochester.edu/u/kautz/papers/p21-zheng.pdf).
 * Y. Zhu and S. Newsam (): [Land use classification using convolutional neural networks applied to ground-level images](http://faculty.ucmerced.edu/snewsam/papers/Zhu_SIGSPATIAL15_LandUseClassification.pdf). 
 * A. Sitthi, M. Nagai, M. Dailey, and S. Ninsawat (2016): [Exploring land use and land cover of geotagged social-sensing images using naive Bayes classifier](), _Sustainability_, 8:921, doi: [10.3390/su8090921](10.3390/su8090921).
 * D. Leung and S. Newsam (2012): [Exploring geotagged images for land-use classification](), Proc. _ACM MM_.
