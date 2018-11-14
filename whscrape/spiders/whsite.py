@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 
 import scrapy
 from scrapy import signals
-from .. import settings
+from .. import settings, items
 
 class WHSSpider(scrapy.Spider):
     name            = 'WorldHeritageSite'
@@ -71,17 +71,17 @@ class WHSSpider(scrapy.Spider):
             #   - and depth is below maximum depth
             if parsed_uri.netloc == self.domain and depth < self.maxdepth:
                 # get all the <h4 ... "statesparties"> tags
-                a_selectors = response.xpath(settings.COUNTRY_SELECTOR)
+                a_selectors = response.xpath(items.COUNTRY_SELECTOR)
                 # loop on each tag
                 for selector in a_selectors:
                     # extract the country reference
-                    country = selector.xpath(settings.SITES_PATH['Country']).extract()
+                    country = selector.xpath(items.SITES_PATH['Country']).extract()
                     # extract the name of the site
-                    name = selector.xpath(settings.SITES_PATH['Name']).extract()
+                    name = selector.xpath(items.SITES_PATH['Name']).extract()
                     # also retrieve the list of all other sites in the country
-                    sites = selector.xpath(settings.SITES_PATH['List']).extract()
+                    sites = selector.xpath(items.SITES_PATH['List']).extract()
                     # finally extract the links href
-                    link = selector.xpath(settings.SITES_PATH['Link']).extract()
+                    link = selector.xpath(items.SITES_PATH['Link']).extract()
                     # create a new Request object
                     if depth < self.maxdepth-1:
                         request = response.follow(link, callback=self.parse_sitelist)
